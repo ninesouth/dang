@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Old Camel"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/biophoto.jpg"
   bio    : "Mua nhà nghỉ hưu"
   links:
     - label: "Website"
