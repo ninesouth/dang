@@ -1,5 +1,5 @@
 ---
-title: "Posts by Tinh trang"
+title: "Posts by Tình trạng"
 permalink: /tags/
 layout: tags
 author_profile: true
