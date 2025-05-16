@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Tuổi đã già, kiếm cái nhà, bên Nine South.
 # twitter_username: username
 # github_username: username
-minimal_mistakes_skin: default
+minimal_mistakes_skin: dark
 search: true
 
 atom_feed:
