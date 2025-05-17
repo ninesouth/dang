@@ -55,7 +55,7 @@ layout: default
     {%- if page.id -%}
         <!--Every article has a id, but special pages don't unless you set manually.
         This prevents Cusdis from appear everywhere-->
-        <div id="cusdis_thread"
+        <div id="cusdis_thread" style="height:100%"
         data-host="https://cusdis.com"
         data-app-id="02674401-db4d-4ce2-a182-d45830ba9436"
         data-page-id="{{ page.id }}"
@@ -78,7 +78,7 @@ layout: default
 
       {% include post_pagination.html %}
     </div>
-    
+
     {% if site.comments.provider and page.comments %}
       {% if jekyll.environment == 'production' %}
         {% include comments.html %}
